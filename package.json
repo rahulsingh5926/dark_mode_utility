@@ -1,0 +1,22 @@
+{
+  "name": "dark_mode_utility",
+  "version": "1.0.0",
+  "description": "an npm package for dark mode theme fo web application",
+  "main": "dark_mode.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulsingh5926/dark_mode_utility.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rahul Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rahulsingh5926/dark_mode_utility/issues"
+  },
+  "homepage": "https://github.com/rahulsingh5926/dark_mode_utility#readme"
+}
