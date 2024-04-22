@@ -1,7 +1,7 @@
 {
   "name": "dark_mode_utility",
-  "version": "1.0.0",
-  "description": "an npm package for dark mode theme fo web application",
+  "version": "1.0.1",
+  "description": "npm package for dark mode theme for web application",
   "main": "dark_mode.js",
   "scripts": {
     "test": "npm run test"

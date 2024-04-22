@@ -11,6 +11,7 @@ var darkModeButton = document.createElement("input");
 
 // Create the label element
 const labelElement = document.createElement("label");
+
 labelElement.classList.add("cl-switch");
 
 // Create the input element
@@ -31,5 +32,8 @@ containerDiv.appendChild(labelElement);
 // Append the container div to the document body or any desired parent element
 document.body.appendChild(containerDiv);
 
-// Event listener for button click
-document.getElementById("dark-mode-toggle").addEventListener("click", darkMode);
+// Event listener for checkbox toggle
+inputElement.addEventListener("change", function () {
+  // Call darkMode function when checkbox is toggled
+  darkMode();
+});
