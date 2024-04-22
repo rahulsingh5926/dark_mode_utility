@@ -1,7 +1,3 @@
-Sure, here's how you can structure your README.md file to reflect your file structure and provide instructions for usage:
-
----
-
 # Dark Mode Utility
 
 ## Overview
