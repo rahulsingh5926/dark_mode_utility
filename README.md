@@ -85,6 +85,3 @@ You can customize the appearance and behavior of the toggle buttons by modifying
 
 This project is licensed under the [Apache-2.0](LICENSE).
 
----
-
-Feel free to customize this README template according to your specific package details and requirements. If you have any questions or need further assistance, don't hesitate to ask!
