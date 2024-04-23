@@ -43,6 +43,12 @@ To install the Dark Mode Utility in your web application, follow these steps:
 ## Usage
 
 Once you have installed the Dark Mode Utility, you can use it to add toggle buttons for dark mode themes to your web application. Here's an example of how to use the utility:
+--
+switch1-![Screenshot 2024-04-23 125844](https://github.com/rahulsingh5926/dark_mode_utility/assets/94732146/685385ca-56ea-456b-941b-26a056eb90ad)
+
+switch2
+![Screenshot 2024-04-23 130002](https://github.com/rahulsingh5926/dark_mode_utility/assets/94732146/0684dcd8-7831-4c56-a9ce-00e57b582cc4)
+
 
 ```html
 <!DOCTYPE html>
